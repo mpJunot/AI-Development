@@ -5,6 +5,7 @@ This repository implements several machine learning and deep learning models, in
 - Convolutional Neural Networks (CNN)
 - Long Short-Term Memory networks (LSTM)
 - Multi-Layer Perceptrons (MLP)
+- BERT
 - And more
 
 These models are intended for experimentation, research, and educational purposes.
